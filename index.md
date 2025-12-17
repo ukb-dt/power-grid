@@ -2,7 +2,7 @@ Startlingly clear the role of prosody, innit?
 
 ---
 
-[Prosody](https://ukb-dt.github.io/too-tidy/) is not decoration; it is metabolic governance. Rhythm, cadence, pause, and emphasis determine when [high-cost cognition](https://ukb-dt.github.io/pfc/) is invoked and when it is bypassed. A well-formed prosodic structure carries meaning while suppressing prefrontal load, allowing coordination, memory, and action at a fraction of the energetic cost of explicit reasoning. This is why ritual, poetry, chant, slogans, and narrative persist where analytic clarity fails: prosody is a power-efficient control signal. Strip it away and truth may remain—but it becomes unaffordable.
+[Prosody](https://ukb-dt.github.io/too-tidy/) is not decoration; it is metabolic governance. Rhythm, cadence, pause, and emphasis determine when [high-cost cognition](https://ukb-dt.github.io/pfc-00/) is invoked and when it is bypassed. A well-formed prosodic structure carries meaning while suppressing prefrontal load, allowing coordination, memory, and action at a fraction of the energetic cost of explicit reasoning. This is why ritual, poetry, chant, slogans, and narrative persist where analytic clarity fails: prosody is a power-efficient control signal. Strip it away and truth may remain—but it becomes unaffordable.
 
 
 ---
