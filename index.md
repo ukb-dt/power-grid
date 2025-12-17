@@ -13,7 +13,7 @@ Let’s spell it out cleanly.
 
 ---
 
-## The power-grid simile (literal, not poetic)
+## The [power-grid](https://ukb-dt.github.io/dt/) simile (literal, not poetic)
 
 In an electrical grid:
 
